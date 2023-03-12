@@ -411,7 +411,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Base_Motor_Test_USB_Adapter_Carriage.kicad_pro",
+    "filename": "BaSe_USB_Adapter_Carriage_V1_0.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -494,7 +494,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "BaSe_USB_Adapter_Carriage_V1_0.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
