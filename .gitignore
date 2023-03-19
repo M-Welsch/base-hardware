@@ -1,0 +1,8 @@
+.bak
+rescue-backup/
+/*backups
+*.dcm
+*.pdf
+*.step
+*.zip
+*.kicad_prl
